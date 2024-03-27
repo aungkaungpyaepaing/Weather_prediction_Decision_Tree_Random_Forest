@@ -15,7 +15,7 @@ There are different stages called -
 <img width="737" alt="image" src="https://github.com/aungkaungpyaepaing/Weather_prediction_Decision_Tree_Random_Forest/assets/88584127/94bc9474-3f69-473d-bdf5-1abcf6a3e16b">
 <img width="543" alt="image" src="https://github.com/aungkaungpyaepaing/Weather_prediction_Decision_Tree_Random_Forest/assets/88584127/6742fb96-6110-4089-b7ef-991e230185e9">
 
-<b>Correlation Matrix of Weather Variables</b>
+<h3>Correlation Matrix of Weather Variables</h3>
 <img width="479" alt="image" src="https://github.com/aungkaungpyaepaing/Weather_prediction_Decision_Tree_Random_Forest/assets/88584127/bdc01c85-5b1a-4ed0-94fb-f1e14fd7a2e0">
 
 <h3>Model Training</h3>
@@ -27,4 +27,10 @@ There are different stages called -
 
 <h3>Model Evalutation</h3>
 <img width="296" alt="image" src="https://github.com/aungkaungpyaepaing/Weather_prediction_Decision_Tree_Random_Forest/assets/88584127/dd9ffa8b-1bcb-4cf8-8afd-bad16f029c49">
+
+
 <img width="298" alt="image" src="https://github.com/aungkaungpyaepaing/Weather_prediction_Decision_Tree_Random_Forest/assets/88584127/6c074f83-19c6-4454-9cec-a816d9d69f52">
+
+
+<h3>Model Comparison</h3>
+<img width="547" alt="image" src="https://github.com/aungkaungpyaepaing/Weather_prediction_Decision_Tree_Random_Forest/assets/88584127/ff5f0222-f22a-49ed-9ef7-fc303803a49c">
